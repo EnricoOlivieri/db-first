@@ -1,0 +1,8 @@
+Car description:
+
+    ID int,
+    marca varchar(255),
+    modello varchar(255),
+    anno varchar(255),
+    prezzo varchar(255),
+    PRIMARY KEY (ID).
